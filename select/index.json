@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "君の脈で踊りたかった",
+  "base_artist": "IIYATSU",
+  "createdAt": "2026-02-10T04:11:22.841973Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "君の脈で踊りたかった",
+      "artist": "IIYATSU, ピコン, 木咲桃華",
+      "has_synced": false,
+      "path": "select/pl_01_君の脈で踊りたかった_IIYATSU,_ピコン,_木咲桃華.txt"
+    }
+  ]
+}
